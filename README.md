@@ -4,7 +4,7 @@ Es un **nuevo paradigma** aplicado a la necesidad que siempre han tenido los des
 
 Podemos pensar en GraphQL como **un nuevo eslabón en esta cadena evolutiva** de tecnologías para intercambiar información. 
 
-Fue creado por Facebook en el 20015 **para resolver ciertas limitaciones que en algunos casos presenta REST**.
+Fue creado por Facebook en el 2015 **para resolver ciertas limitaciones que en algunos casos presenta REST**.
 
 Su principal ventaja es la **flexibilidad al momento de requerir información**, lo que con REST podría tomar varias consultas y peticiones, con una API de GraphQL bien diseñada sólo tomará **una única llamada**
 
